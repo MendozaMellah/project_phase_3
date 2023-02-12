@@ -13,9 +13,9 @@ Syriatel has been leading the Syrian mobile telecommunication market since 2000.
 
 ## Objectives
 
-To build a ML model that predicts whether a customer will churn or not
-To compare different ML models predictions to achieve highest accuracy
-Advice the client on best strategy
+- To build a ML model that predicts whether a customer will churn or not
+- To compare different ML models predictions to achieve highest accuracy
+- Advice the client on best strategy
 
 ### b) Defining the Metric for Success
 
@@ -27,11 +27,11 @@ Understanding customer behavior is top of mind for every business today. Gaining
 
 ## Conclusion
 
-- The top 10 important features are voice mail plan,total night charge, total night minutes, total international calls,number of voice mail messages,total intl minutes, total intl charge,total day calls, total night calls and total eve calls
-- When customer service calls are more than 2 then the customer tends to leave.
-- Customers with international plan churn at a higher rate than the customers without international plan churn.
+The top 10 important features are voice mail plan,total night charge, total night minutes, total international calls,number of voice mail messages,total intl minutes, total intl charge,total day calls, total night calls and total eve calls
+When customer service calls are more than 2 then the customer tends to leave.
+Customers with international plan churn at a higher rate than the customers without international plan churn.
 
 ## Recommendation
 
-SyriaTel should improve the customer service.<br/>
+SyriaTel should improve the customer service.
 Syriatel should reduce charges for international calls in order to retain customers with international plan.
